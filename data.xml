@@ -1,0 +1,32 @@
+<employees>
+  <employee id="1">
+    <firstName>Lokesh</firstName>
+    <lastName>Gupta</lastName>
+    <email>lokesh.gupta@gmail.com</email>
+    <address>
+      <country>India</country>
+      <streetName>1-8-32/5, Bapu Bagh Cly, P G Road</streetName>
+      <city>Hyderabad</city>
+    </address>
+  </employee>
+  <employee id="2">
+    <firstName>Alex</firstName>
+    <lastName>Gussin</lastName>
+    <email>alex.gussin@yandex.ru</email>
+    <address>
+      <country>Russia</country>
+      <streetName>Bazhova, bld. 34, appt. 19</streetName>
+      <city>Chelyabinsk</city>
+    </address>
+  </employee>
+  <employee id="3">
+    <firstName>David</firstName>
+    <lastName>Feezor</lastName>
+    <email>david.feezor09@yahoo.com</email>
+    <address>
+      <country>USA</country>
+      <streetName>4940 Holly Street</streetName>
+      <city>Athens</city>
+    </address>
+  </employee>
+</employees>
