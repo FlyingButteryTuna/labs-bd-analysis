@@ -45,6 +45,7 @@ public class Employees {
             employee.setFirstName(func.apply(employee.getFirstName(), originalKey));
             employee.setLastName(func.apply(employee.getLastName(), originalKey));
             employee.setEmail(func.apply(employee.getEmail(), originalKey));
+            employee.setId(func.apply(employee.getId(), originalKey));
 
             Address currentAddress = employee.getAddress();
             Address newAddress = new Address();
